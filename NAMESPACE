@@ -1,0 +1,8 @@
+export(binteg)
+export(Glog)
+export(Gneglog)
+export(plot1)
+export(plot2)
+importFrom("grDevices", "contourLines")
+importFrom("graphics", "abline", "axis", "contour", "legend", "lines", "par", "rect", "text")
+importFrom("stats", "approx")

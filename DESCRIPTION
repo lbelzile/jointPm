@@ -1,0 +1,12 @@
+Package: jointPm
+Type: Package
+Title: Risk estimation using the joint probability method
+Version: 2.3.2
+Author: Feifei Zheng, Michael Leonard, Seth Westra
+Maintainer: Leo Belzile <belzilel@gmail.com>
+Description: A bivariate integration method to estimate risk caused by two extreme and dependent forcing variables.
+Depends: R (>= 3.0.1)
+License: GPL (>= 2)
+Repository: CRAN
+NeedsCompilation: no
+
