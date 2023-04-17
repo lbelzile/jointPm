@@ -1,6 +1,6 @@
 Package: jointPm
 Type: Package
-Title: Risk estimation using the joint probability method
+Title: Risk Estimation Using the Joint Probability Method
 Version: 2.3.2
 Author: Feifei Zheng, Michael Leonard, Seth Westra
 Maintainer: Leo Belzile <belzilel@gmail.com>
