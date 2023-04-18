@@ -2,8 +2,7 @@ Package: jointPm
 Type: Package
 Title: Risk Estimation Using the Joint Probability Method
 Version: 2.3.2
-Author: Feifei Zheng, Michael Leonard, Seth Westra
-Maintainer: Leo Belzile <belzilel@gmail.com>
+Authors@R: c(person(given="Leo", family="Belzile", role = "cre", email = "belzilel@gmail.com", comment = c(ORCID = "0000-0002-9135-014X")), person(given="Feifei", family="Zheng", role="aut", email = "feifeizheng@zju.edu.cn", comment = c(ORCID = "0000-0003-3048-7086")), person(given="Michael", family="Leonard", role="aut", email = "michael.leonard@adelaide.edu.au", comment = c(ORCID = "0000-0002-9519-3188")), person(given="Seth", family="Westra", role="aut", email = "seth.westra@adelaide.edu.au", comment = c(ORCID = "0000-0003-4023-6061")))
 Description: A bivariate integration method to estimate risk caused by two extreme and dependent forcing variables.
 Depends: R (>= 3.0.1)
 License: GPL (>= 2)
